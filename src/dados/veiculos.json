@@ -1,0 +1,9 @@
+[
+    {
+        "placa": "AAA1111",
+        "tipoVeiculo": "carro",
+        "valorHora": 15,
+        "modelo": "Jeep Renegade",
+        "reservadoPor": "11111111111"
+    }
+]
